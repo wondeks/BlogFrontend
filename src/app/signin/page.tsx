@@ -3,8 +3,9 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sign In Page | Free Next.js Template for Startup and SaaS",
-  description: "This is Sign In Page for Startup Nextjs Template",
+   title: " ይመዝገቡ ገፅ | የኢትዮጵያ ኦርቶዶክስ ተዋህዶ ቲክቶከሮች ኮላጅ",
+description: "ይህ የስለ እኛ ገፅ የኢትዮጵያ ኦርቶዶክስ ተዋህዶ ቲክቶከሮችን በተለያዩ መንገዶች እምነት፣ ባህል እና መንፈሳዊነትን በዘመናዊ መልኩ የሚያሳይ ፈጠራማ ኮላጅ ነው።"
+  // other metadata
   // other metadata
 };
 

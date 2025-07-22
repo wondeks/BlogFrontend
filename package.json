@@ -9,13 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.32.4",
+    "@clerk/nextjs": "^6.23.3",
+    "@tanstack/react-query": "^5.81.5",
+    "axios": "^1.10.0",
     "eslint": "^8.56.0",
     "eslint-config-next": "^14.1.0",
+    "imagekitio-react": "^4.3.0",
     "next": "^14.1.0",
     "next-themes": "^0.2.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-modal-video": "^2.0.1"
+    "react": "^19.2.0-canary-5d87cd22-20250704",
+    "react-dom": "^19.2.0-canary-5d87cd22-20250704",
+    "react-modal-video": "^2.0.1",
+    "react-quill-new": "^3.4.6",
+    "react-router-dom": "^7.6.3",
+    "react-toastify": "^11.0.5"
   },
   "devDependencies": {
     "@types/node": "^20.8.9",

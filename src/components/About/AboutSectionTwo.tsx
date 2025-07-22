@@ -12,13 +12,13 @@ const AboutSectionTwo = () => {
             >
               <Image
                 src="/images/about/about-image-2.svg"
-                alt="about image"
+                alt="የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተክርስቲያን ኮሌጅ ምስል"
                 fill
                 className="drop-shadow-three dark:hidden dark:drop-shadow-none"
               />
               <Image
                 src="/images/about/about-image-2-dark.svg"
-                alt="about image"
+                alt="የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተክርስቲያን ኮሌጅ ምስል"
                 fill
                 className="hidden drop-shadow-three dark:block dark:drop-shadow-none"
               />
@@ -28,29 +28,26 @@ const AboutSectionTwo = () => {
             <div className="max-w-[470px]">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Bug free code
+                  ስለ ኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተክርስቲያን ኮሌጅ
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  ኮሌጁ በኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተክርስቲያን በሚካሄደው የመምህራን ማማከርና የተማሪዎች ማስተማር እንዲሁም የመንፈሳዊ ሥነ ምግባር እና የቤተክርስቲያን ትምህርት ማዕከል ነው።
                 </p>
               </div>
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Premier support
+                  አስተዳደርና ድጋፍ
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
+                  ኮሌጁ ተማሪዎችን በጥራት የተሞላ ትምህርት ለመስጠት በሙያ ያላቸው አስተዳደሮችና መምህራን አሉት። የተማሪዎች ድጋፍን እና መንፈሳዊ አገልግሎት ይሰጣል።
                 </p>
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Next.js
+                  እምነታዊ ትምህርት
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
+                  ኮሌጁ ተማሪዎችን በኢትዮጵያ ኦርቶዶክስ ተዋሕዶ እምነት መሠረት ያለው መንፈሳዊ ትምህርት እና ባህላዊ እንቅስቃሴ እንዲቀበሉ ያበረከታል።
                 </p>
               </div>
             </div>
