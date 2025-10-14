@@ -7,8 +7,10 @@ const Brands = () => {
     <section className="pt-16">
       <div className="container">
         <div className="-mx-4 flex flex-wrap">
-         
-          </div>
+          {/* Render all brands */}
+          {brandsData.map((brand) => (
+            <SingleBrand key={brand.id} brand={brand} />
+          ))}
         </div>
       </div>
     </section>
@@ -28,8 +30,20 @@ const SingleBrand = ({ brand }: { brand: Brand }) => {
         rel="nofollow noreferrer"
         className="relative h-10 w-full opacity-70 transition hover:opacity-100 dark:opacity-60 dark:hover:opacity-100"
       >
-        <Image src={imageLight} alt={name} fill className="hidden dark:block" />
-        <Image src={image} alt={name} fill className="block dark:hidden" />
+        <Image
+          src={imageLight}
+          alt={name}
+          fill
+          className="hidden dark:block"
+          style={{ objectFit: "contain" }}
+        />
+        <Image
+          src={image}
+          alt={name}
+          fill
+          className="block dark:hidden"
+          style={{ objectFit: "contain" }}
+        />
       </a>
     </div>
   );
