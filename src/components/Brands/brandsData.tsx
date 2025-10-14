@@ -1,4 +1,5 @@
 import { Brand } from "@/types/brand";
+import Image from "next/image";
 
 const brandsData: Brand[] = [
   {
@@ -45,4 +46,35 @@ const brandsData: Brand[] = [
   },
 ];
 
-export default brandsData;
+const Brands = () => {
+  return (
+    <div className="grid grid-cols-3 md:grid-cols-6 gap-4 items-center">
+      {brandsData.map(({ id, name, href, image, imageLight }) => (
+        <div key={id} className="flex justify-center items-center">
+          <a
+            href={href}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="relative h-10 w-full opacity-70 transition hover:opacity-100 dark:opacity-60 dark:hover:opacity-100"
+          >
+            {/* Light/dark images */}
+            <Image
+              src={imageLight}
+              alt={name}
+              fill
+              className="hidden dark:block"
+            />
+            <Image
+              src={image}
+              alt={name}
+              fill
+              className="block dark:hidden"
+            />
+          </a>
+        </div>
+      ))}
+    </div>
+  );
+};
+
+export default Brands;
