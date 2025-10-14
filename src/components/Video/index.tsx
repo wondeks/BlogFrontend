@@ -5,6 +5,8 @@ import { useState } from "react";
 import SectionTitle from "../Common/SectionTitle";
 
 import ModalVideo from "react-modal-video";
+  
+
 
 const Video = () => {
   const [isOpen, setOpen] = useState(false);
