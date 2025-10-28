@@ -39,7 +39,9 @@ const Header = () => {
           <div className="w-60 max-w-full px-4 xl:mr-12">
             <Link
               href="/"
-              className={`header-logo block w-full ${sticky ? "py-5 lg:py-2" : "py-8"}`}
+              className={`header-logo block w-full ${
+                sticky ? "py-5 lg:py-2" : "py-8"
+              }`}
             >
               <Image
                 src="/images/logo/Captures.PNG"
@@ -129,15 +131,24 @@ const Header = () => {
                               openIndex === index ? "block" : "hidden"
                             }`}
                           >
-                            {menuItem.submenu?.map((submenuItem, subIndex) => (
-                              <Link
-                                href={submenuItem.path}
-                                key={subIndex}
-                                className="block rounded py-2.5 text-sm text-dark hover:text-primary dark:text-white/70 dark:hover:text-white lg:px-3"
-                              >
-                                {submenuItem.title}
-                              </Link>
-                            ))}
+                            {menuItem.submenu?.map((submenuItem, subIndex) =>
+                              submenuItem.path ? (
+                                <Link
+                                  href={submenuItem.path}
+                                  key={subIndex}
+                                  className="block rounded py-2.5 text-sm text-dark hover:text-primary dark:text-white/70 dark:hover:text-white lg:px-3"
+                                >
+                                  {submenuItem.title}
+                                </Link>
+                              ) : (
+                                <span
+                                  key={subIndex}
+                                  className="block rounded py-2.5 text-sm text-dark dark:text-white/70 lg:px-3"
+                                >
+                                  {submenuItem.title}
+                                </span>
+                              )
+                            )}
                           </div>
                         </>
                       )}
@@ -149,7 +160,6 @@ const Header = () => {
 
             {/* Auth & ThemeToggler */}
             <div className="flex items-center justify-end pr-16 lg:pr-0 gap-4">
-              
               <Link
                 href="/signup"
                 className="hidden rounded-sm bg-primary px-8 py-3 text-base font-medium text-white transition duration-300 hover:bg-opacity-90 shadow-btn hover:shadow-btn-hover md:block md:px-9 lg:px-6 xl:px-9"

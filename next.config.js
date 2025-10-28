@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true, // Recommended for catching potential issues
 
   images: {
-    domains: ["192.168.0.104"], // LAN IP for local images
+    domains: ["localhost", "192.168.0.104"], // ✅ combine both
     remotePatterns: [
       {
         protocol: "https",
