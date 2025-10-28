@@ -38,7 +38,21 @@ const AboutSectionTwelve = () => {
                             ቅ.ሥላሴ(Trinity) በእስልምና መጻህፍት 
                 
                   </h3>
+                   
+
+
+ይህን ክፍል  ካነበብን ቡሃላ የምንረዳዉ ሙሃመድ ከክርስትያኖች  የገለበጣቸው የ ቅ.ሥላሴ አስተምህሮና
+  ከቁረሾች የገለበጣቸው የጣኦት አምልኮ
+ከሳብያን የገለበጣቸዉ የሶላት አምልኮን  እንመለከታለን፡፡
+አላማችን ፤- 
+  ሙሃመድ የሥላሴን አስተምህሮ ስለሰረቀ፤ እናንተም ጋር  አለና ባልገባቹ ነገር 
+   ልትተቹን አትችሉም የሚለዉን ማስያዝና ፤ ሙሃመድ  ከጣኦት አምልኮ 
+   በመዉሰድ ያመለካቸዉን ጣኦታት እና ከሳቢያኖች የወሰዳቸዉን ሶምና 
+    ሶላቶች በማመልከት 
+ ከሙሀመድ በያይነትና ከጣኦት እራቁ የሚለዉን መልክት ማስያዝ ነዉ፡፡
+<br></br>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+   </p>
    <div>
       <h1></h1>
       <Image 
@@ -49,6 +63,11 @@ const AboutSectionTwelve = () => {
       />
     </div>  
 
+      መጀመርያ ማወቅ ያለብን ሙሃመድ በዚህ ሙድ ውስጥ የነበረበት ጊዜ
+       ነበረ ይህን ልንትማመን ይገባል::ሙሃመድ እኛ ክርስትያኖች እንደምንፀድቅ የተናገረበት ጊዜ ኣለ
+
+       https://www.youtube.com/watch?v=b402OAzSZms
+      
       ሙስሊም ወገኖቻችን ስለ ቅድስት ስላሴ፤ ስለ አብ ወልድ መንፈስቅዱስ ስናስተምር፤
 ይሄ ትምህርት ሙሃመድ የተቃወመዉ ነገር ነዉ፤ይሉናል፡፡ ነገር ግን ሙሃመድ አንድም ቦታ
  በስላሴ ዙርያ በግልጽ እኛ የምናስተምረዉን ተናግሮ ይሄ ስህተት ነዉ ያለበት የለም፤ 
@@ -76,8 +95,12 @@ const AboutSectionTwelve = () => {
                    
 ሙሀመድ  ለጣኦታት የታረዱትን ስጋ አልበላም ነገር ግን   
 ክርስትያኖችና አይሁዳች ያረዱትተን ስጋ   በአብ በወልድ በመንፈስ ቅዱስ ስም 
-ያረዳቹትን ስጋ እበላለዉ አለ፤ ስላሴ 
-ከሌላ የመጣ ነዉ ነገር ግን በስላሴ ስም የታረደዉን ምግብ ደስ እያለኝ እበላለዉ ማለት ምን የሚሉት ነዉ፡፡
+ያረዳቹትን ስጋ እበላለዉ አለ፤
+<br></br><br></br>https://youtube.com/shorts/H-FztHTGmTQ
+<br></br><br></br>https://www.youtube.com/shorts/DwU_fPUqDGI
+ ስላሴ 
+ከሌላ የመጣ ነዉ ነገር ግን በስላሴ ስም የታረደዉን ምግብ ደስ እያለኝ እበላለዉ ማለት 
+ምን የሚሉት ነዉ፡፡
  ማነዉ እዚጋር የተልከሰከሰዉ፤፤  የክርስትና ትርጉም
 ሙሃመድ እኛ ክርስታትያኖች ሰንበተሰቸን እሁድ እንደሆነ ተናግሩዋ
  ይህን ያወቀ፤እኛ እርድ ስናርድ በአብ በወልድ በመንፈስቅዱስ 
@@ -178,8 +201,12 @@ ingredients into a new panacea for human ills and forcing it down by means of th
 ሙሃመድ ማለት በያይነት ማለት ነዉ
 
 ዛሬ የምናየዉ ሙሃመድ ከክርስትያኖች  የገለበጣቸው የ ቅ.ሥላሴ አስተምህሮና
-  ከቁረሾች የገለበጣቸው የጣኦት አምልኮከሳብያን የገለበጣቸዉ የሶላት አምልኮን እንመለከታለን፡፡አላማችን ፤- 
-  ሙሃመድ የሥላሴን አስተምህሮ ስለሰረቀ፤ እናንተም ጋር አለና ባልገባቹ ነገር  ልትተቹን አትችሉም የሚለዉን ማስያዝና ፤ ሙሃመድ  ከጣኦት አምልኮ በመዉሰድ ያመለካቸዉን ጣኦታት እና ከሳቢያኖች የወሰዳቸዉን ሶምና  ሶላቶች በማመልከት 
+  ከቁረሾች የገለበጣቸው የጣኦት አምልኮከሳብያን የገለበጣቸዉ የሶላት አምልኮን 
+  እንመለከታለን፡፡አላማችን ፤- 
+  ሙሃመድ የሥላሴን አስተምህሮ ስለሰረቀ፤ እናንተም ጋር አለና ባልገባቹ ነገር 
+   ልትተቹን አትችሉም የሚለዉን ማስያዝና ፤ ሙሃመድ  ከጣኦት አምልኮ 
+   በመዉሰድ ያመለካቸዉን ጣኦታት እና ከሳቢያኖች የወሰዳቸዉን ሶምና 
+    ሶላቶች በማመልከት 
  ከሙሀመድ በያይነትና ከጣኦት እራቁ የሚለዉን መልክት ማስያዝ ነዉ፡፡
 
 
@@ -742,8 +769,6 @@ Sura 25:4  በእርሱም ላይ ሌሎች ህዝቦች ያገዙት፤የሆ�
     </div>
 
     
-
-    
             <h3>    1.  ሥላሴ በእስልምና የመግቢያ ጥያቄዎች</h3> 
    
 አንድ ህዝብ አንድ ኢትዮጽያ ስንል፤ አንድ ማለታችን ስለ አንድ
@@ -796,8 +821,8 @@ Sura 25:4  በእርሱም ላይ ሌሎች ህዝቦች ያገዙት፤የሆ�
 ያ ሙስሊሚን ለምን ይሁን አላህ ፤ እራስን እኛ ብሎ የሚጠራው?
 ሺርክ ላስወግድ መጣሁ እያለ ፤ መብዛትን የሚመኘዉ?
 ኣብ ስለወለድዉ ከልጁ አያንስም ፤
-
-
+<br></br>
+እዚህ ጋር ቁራኑ በግልጽ አያስቀምጠዉም፤ ሙሃመድ እኛ ሲል፤ ወይ  በአላህ ስም አንድ ስላደረጋቸዉ ጣኦታት እየተናገረ ነዉ ፤ ወይ ደግሞ ፤ እኛ ክርስትያኖች ፤ አብ ወልድና መንፍስቅዱስን ነዉ ብለን እንደምናምነዉ ፤ዘፍጥረት ላይ እግዚአብሄር እንፍጠር እንዳለዉ  እያለ ነዉ
 <br></br><br></br>
 ስለዚህ እግዚአብሄር ፈጣሪያችን ቃልና መንፈስ ስላለሁ፤ ማጋራት/ሺርክ  ከሆነ፤ የእስልምናዉም ምናባዊዉ 
 አላህ ፤ ቃልና መንፈስ ስላለሁ ሺርክ ይሆንበታል፡፡
@@ -951,14 +976,72 @@ https://www.youtube.com/watch?v=A13MsKlcsxY
     </div>
   <br></br>የአላህ ቃል ፤ ፈጣሪ እንደሆነ ኡስታዝ አቡ ሃይደርን ጨምሮ ያምናሉ ፡፡   
     <br></br>
-    ሱራ 2፤117 ሰማያትንና ምድርን ያለ ብጡ ፈጣሪ ነዉ፤ ነገርን ማስገኘት ባሻ ጊዜ ለእርሱ የሚለዉ ፡- ሁን ነዉ››ወድያዉም ይሆናል 
+    ሱራ 2፤117 ሰማያትንና ምድርን ያለ ብጡ ፈጣሪ ነዉ፤
+     ነገርን ማስገኘት ባሻ ጊዜ ለእርሱ የሚለዉ ፡- ሁን ነዉ››ወድያዉም ይሆናል 
       <br></br>
+
+      <div>
+      <h1> </h1>
+      <Image 
+        src="/images/about/king.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+
+    
+      <div>
+      <h1> </h1>
+      <Image 
+        src="/images/about/king1.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+
+
+      <div>
+      <h1> </h1>
+      <Image 
+        src="/images/about/king2.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+
+
+From Fusūs al-Ḥikam, Part Two, page 35:
+
+“The Word is God who has been made manifest; and He is one with the Divine Essence, not something other than it.”
+
+And in the same book, (Fusūs al-Ḥikam, Part Two, page 143):
+
+“The Word is divinity.”
+
+Al-Shahrastani, in his book (Al-Milal wa al-Niḥal, Part 2, page 248), said:
+
+“The Christians have spoken that the Word was united with the body of Christ and was clothed in his flesh.
+By ‘the Word,’ they mean the hypostasis of knowledge; and by ‘the Holy Spirit,’ they mean the hypostasis of life.”
+
+From Al-Haytiyyah, by Imam Ahmad ibn al-Hayt, in his book (Faiths, Desires, and Heresies, Part 1, page 54, by Ibn Ḥazm al-Ẓāhirī):
+
+“Christ wore (was clothed with) flesh, and as the Christians said, the eternal (everlasting) Word became incarnate in flesh.”
+
+From Dr. al-Shakankīrī, Professor of Islamic Law at the University of Paris and at ‘Ayn Shams University in Cairo, there is testimony confirming that the Qur’an affirms Christian teaching about Jesus being the Word of God and the Spirit of God.
+
+He said (as published in Al-Ahram Newspaper, May 26, 1985; translated from a French and Foreign Law historical journal by Dr. Muhammad Badr, Professor of Law at Cairo University Faculty of Law):
+
+“We know that t
 
       እንደ እስልምና አስተምሮ የአላህ መንፈስ አዳምን መፍጠር 
       ላይ ከተሳተፈ  ሱራ 15፤29
 ፍጥረቱን  ባሰተካከልኩትና በዉስጡ ከመንፈሴ በነፋዉበትም ጊዜ ለርሱ ሰጋጆቸ ሆናቹ ሰገዱ፤ካለ
 <br></br><br></br>
 እንደ እስልምና አስተምሮ የአላህ ቃል  ፈጣሪ ከሆነ
+
 <br></br>ስለዚህ አላህ በራሱ ፤ በቃሉና ፤በመንፈሱ፤ በቁራን ላይ እንደተገለጠና ለምን እኛና ከኛ እያለ እራሱን እንደሚጠራ እንዲሁም ለምን አላህ እራሱን ከፈጣሪዎች ምርጡ ነኝ እንዳለ እንረዳለን፡፡ልጅን መያዝ ብንፈልግ ከኛ አንዱን እኒዛለን ይላል፡፡ 
 
 1  እንደ እስልምና አስተምሮ የአላህ መንፈስ አዳምን መፍጠር ላይ ተሳትፈዋል፡፡
@@ -1031,33 +1114,11 @@ https://www.youtube.com/watch?v=A13MsKlcsxY
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  የሥላሴ አስተምህሮ በክርስትና
-
-                  </h3>
-
-
-
-መጻፍቅዱሳችን እኛ በስጋዊ መርምረን ልንደርስበትና ልንረዳው የማንችለው ነገር እንዳለ ይነግረናል
+መጻፍቅዱሳችን እኛ በስጋዊ መርምረን ልንደርስበትና ልንረዳው የማንችለው
+ ነገር እንዳለ ይነግረናል
  1ኛ ቆሮንጦስ 3 ገና ጽኑ መብል 
-ለመበብላት አትችሉም ነበርማ ወተት ጋትኩዋቹ፤ ገና ስጋዉያን ናችሁና እስከ አሁን ድረስ ገና አትችሉም፡፡
+ለመበብላት አትችሉም ነበርማ ወተት ጋትኩዋቹ፤ ገና ስጋዉያን ናችሁና እስከ አሁን 
+ድረስ ገና አትችሉም፡፡
 4.
 
   ምክንያቱም  የማይመረመረዉን እግዚአብሄር በተገለጠልን መልኩ ለማስረዳት 
@@ -1081,26 +1142,26 @@ https://www.youtube.com/watch?v=A13MsKlcsxY
  ያለመሽቀዳደም ማለታችን፤ አንዱ አንዱን ይቀድማል የምንለዉ፤ ጊዜ ባለበት ሁኔታ ነዉ፤ይሄ ጊዜ ባልተፈጠረበት ሁኔታ ስለመሽቀዳደም ልናወራ አንችልም 
 
 
- ) St. Athanasius (c. 296–373) – On the Incarnation and the Trinity
+ St. Athanasius (c. 296–373) – On the Incarnation and the Trinity
 
 “The Father is God, the Son is God, and the Holy Spirit is God. But there are not three Gods, but one God. The Father is not the Son, nor the Son the Father, nor the Spirit the Father or the Son, yet all are one God.”
 
-b) St. Basil the Great (c. 329–379) – On the Holy Spirit
+b St. Basil the Great (c. 329–379) – On the Holy Spirit
 
 “The Spirit is not the Father, nor the Son, yet we worship Him with the Father and the Son, inseparable in essence, distinct in person.”
 
-c) St. Gregory of Nazianzus (c. 329–390) – Oration 31
+c St. Gregory of Nazianzus (c. 329–390) – Oration 31
 
 “We confess one nature in the three, not three in one nature. The Father, the Son, and the Spirit are distinguished, not by essence, but by relation.”
 
-d) St. Augustine (354–430) – De Trinitate
+d St. Augustine (354–430) – De Trinitate
 
 “The Father is called ‘Father’ in relation to the Son. The Son is called ‘Son’ in relation to the Father. This relational distinction makes them different Persons, yet they share one divinity.”
 
 
 
 
-                         </p>
+                      
                              </div>
 
 
@@ -1134,6 +1195,10 @@ d) St. Augustine (354–430) – De Trinitate
 በ ሶስቱ አካል ዉስጥ ፤ በአካለ አብ ፤ በአካለ ወልድ ና በአካለ መንፈስ ቅዱስ ዉስጥ ያለች አንዲት ፤ አገዛዝ አንዲት ስልጣን አንዲት ሃይል ፤ አንዲት መለኮት ማለት ነው፡፡
 የአብ ፤የቃሉ ወልድና የመንፍፈስ ቅዱስ አስተምህሮ በመጻፍቅዱስ አይታወቁም ለምትሉ ፤ በአካለ መንፈስቅዱስ  ዉስጥ አንዲቱዋ አምላክነት ስላለች ፤ 
 በመጻፈ ኢዮብ 33፤ 4 ላይ ኢዮብ አምላካችን የእግዚአብሄር መንፈስ ፈጥሮኛል  ይላል
+
+
+
+
 
 <br></br><br></br>
 
@@ -1208,6 +1273,71 @@ JOB 11- 7-9
 የእግዚአብሄርም መንፈስ ከእግዚአብሄር ዘንድ እንደወጣና እንደነበረ ማስረጃው፤ ዮሃ አስራአምስት አስራ ስድስት ላይ ፤ ዳሩ  ግ ን እኔ ከአብ ዘንድ የምልክላቹ አጽናኝ፤ እርሱም ከአብ የሚወጣ የእዉነት መንፈስ በመጣ ጊዜ፤ እርሱ ስለኔ ይመሰክራል ይላል፡፡
 አካል ስንል፤ አካል፤ የሌለው ነገር የሌለ ነገር  ነው፡፡ አሉ የምንላቸው ነገሮች ሁሉ አካል አላቸው፡፡
 ወልድና መንፈስቅዱስ አካላዊ ናቸው ስንል፤ እኔ ማለት የሚችሉ ናቸው እያልን ነው፡፡
+(A) The Holy Spirit has a mind, will, and emotions
+
+Mind / Understanding
+
+“He who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.”
+— Romans 8:27
+➤ A mind belongs to a person, not an energy or power.
+
+Will
+
+“But one and the same Spirit works all these things, distributing to each one individually as He wills.”
+— 1 Corinthians 12:11
+➤ The Spirit decides how to give spiritual gifts — showing volition and authority.
+
+Emotions
+
+“Do not grieve the Holy Spirit of God.”
+— Ephesians 4:30
+➤ One can only “grieve” a being with feelings — not an impersonal force.
+
+(B) The Holy Spirit speaks and acts personally
+
+He speaks
+
+“While they were worshiping the Lord and fasting, the Holy Spirit said,
+‘Set apart for Me Barnabas and Saul for the work to which I have called them.’”
+— Acts 13:2
+
+He teaches and reminds
+
+“The Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all that I said to you.”
+— John 14:26
+
+He bears witness
+
+“The Spirit Himself bears witness with our spirit that we are children of God.”
+— Romans 8:16
+
+
+
+Resisted
+
+“You always resist the Holy Spirit.”
+— Acts 7:51
+
+Lied to
+
+“Ananias, why has Satan filled your heart to lie to the Holy Spirit? … You have not lied to men but to God.”
+— Acts 5:3–4
+➤ Peter equates lying to the Holy Spirit with lying to God — showing His divine personhood.
+
+
+
+<br></br><br></br>
+3. Jesus’ Own Teaching
+
+“I will ask the Father, and He will give you another Helper, that He may be with you forever; the Spirit of truth…”
+— John 14:16–17
+
+The Greek word for “another” here is allon (ἄλλον), meaning “another of the same kind.”
+
+Thus, Jesus is saying the Holy Spirit is another divine person like Himself — not merely an influence or energy.
+<br></br><br></br>
+
+
 አካላዊው ቃል ፤የምንለው ዝርዉ ወይም ብትን የሆነ እንደ ሰው ስላለው  ቃል፤ ሳይሆን ፡፡ በመጀመርያ ነበረ የተባለለት፤ ስጋን መዋሃድ ስለሚችል፤ ቃል ስጋ ሆነ የተባለለት፤ ከአብ ወጥቻለው ወደ አለስም መጥቻለው አለምን እተዋለው ወደ አብም እሄዳለው ያለ ነው፡፡
 አካላዊ መንፈስቅዱስንም አካላዊ ነው የምንለው የነበረ ፤ያለ፤ ላኪ ፡የወጣ፤ ከወጣበት አካል በእና ይተያያዘ ፤የሚናገር ፤ ተናግሮም የሚገልጥ፤የሚያከብር፤ ከአብና ከመንፈስቅዱስ ጋር ተስተካክሎ ስሙ የተጠራ፡እርሱ ከምድር ሲነሳ ምድር ጽጋዋ የሚገፈፍ፡ የህይወትን እስትንፋ የሰጠን    በመሆኑ አካላዊ እንደሆነ  እናምናለን፡፡
 አንድ አካል ፤ የነበረ ከሆነ ያለ ክሆነ፤ የሚወጣ ከሆነ፤ ከወጣበት አካል በ እ ና፤የሚያያዝ/ አበበና ገረመው እንደምንለው፤ እግዚአብሄርና መንፈሱ ተብሎ የሚጠራ ከሆነ፤ የሚናገር ከሆነ፤ ተናግሮም የሚገልጥ ከሆነ፤ አክባሪ የሚያከብር ከሆነ፤ አካላዊ ለመሆኑ ጥርጥር የለውም
@@ -1648,642 +1778,31 @@ the Lord Christ is the “Word of God”, who in many occasions presents Himself
 ሙሴን አልለይክም እነወዳለዉ ነዉ ቤተከርስትያንንም አልለይሽም ያለዉ
 he secret of Moses’ power was God’s promise, “I will certainly be with you” (Ex. 3: 12); the same promise He gives to His prophets, apostles, and all those who work in His vine. He says to Joshua, son of Nun, “As I was with Moses, so I will be with you; I will not leave you nor forsake you” (Joshua 1: 5). To the prophet Jeremiah He confirms: “For I am with you, to deliver you” (Jeremiah 1: 8); and to His disciples He says: “I am with you always, even to the end of the age” (Matthew 28: 20). 
 
-  <br></br>  
+  <br></br> 
 
 
 
 
-     <br></br><br></br>
 
-ሰዎች ኣጥፈተው አራሳቸውን አንደ ህንዶች ካቃጠሉ ኣላህ ይቅር አንደሚላቸዉ
 
 
-      <div>
-      <h1> https://www.youtube.com/watch?v=V2T0oplTEY8</h1>
-      <Image 
-        src="/images/about/hht.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-    </div>
 
-<br></br> <br></br>
 
-2️⃣ Seven Rounds Around Deity or Temple
 
-Devotees sometimes circumambulate a deity or temple seven times (called Pradakshina).
 
-It symbolizes devotion, completeness, and spiritual progress.
-አባላት አንድ አምላክ ወይም ቤተ መቅደስ አራት ጊዜ እንደ ሰባት ዙሪያ (Pradakshina) ይመላለሳሉ።
 
-ይህም እንደ መከበር፣ ሙሉነት፣ እና መንፈሳዊ ልማት ይወክላል
-<br></br> <br></br>
 
-2️3በማመሳሰል ፤ ለምን ይመስላቹሃል ብዙ ሂንዱዎች ወደ
-አስልምና የሚመጡት፤ ሱረቱል በቀራ ላይ ላምን ሲያዩ ልባቸው ይነካል፤ ላም፤
-The cow holds a very special and sacred place in Hinduism. Its significance is both religious and cultural. Here’s a clear explanation:
-<br></br> <br></br>
-4 Religious Significance
 
-Sacred Symbol:
 
-The cow is considered a symbol of life and sustenance because it provides milk, which nourishes humans.
 
-In Hinduism, cows are often associated with Aditi, the mother of all gods, and Kamadhenu, the divine “wish-fulfilling cow.”
 
-Ahimsa (Non-violence):
 
-Hinduism emphasizes non-violence toward all living beings. The cow, being gentle and giving, embodies this principle.
-
-Many Hindus avoid eating beef as an expression of compassion.
-
-Religious Texts:
-
-The Vedas and Puranas describe the cow as “Gau Mata” (mother cow), a giver of prosperity and abundance.
-
-Rituals often involve cow products (milk, ghee, curd) in ceremonies and offerings.
-
-2️⃣ Cultural & Social Significance
-
-Agriculture & Economy:
-
-Historically, cows were central to farming communities for milk, dung (used as fuel/fertilizer), and labor (in rural India).
-
-Protecting cows was important for the well-being of the village and economy.
-
-Symbol of Prosperity:
-
-Cows are considered auspicious. Having cows was linked with wealth and good fortune.
-
-Festivals like Gopashtami celebrate cows, honoring their contribution to human life.
-
-3️⃣ Spiritual Symbolism
-
-Motherly Qualities:
-
-The cow’s gentle and giving nature symbolizes nurturing and selflessness.
-
-Link to Deities:
-
-Lord Krishna, a beloved deity, is called “Govinda” or “Gopala”, meaning protector of cows.
-
-Many stories depict Krishna tending cows, showing reverence for them as sacred creatures.   
-
-             
-                
-
-Circumambulation:
-
-Hinduism: Walking clockwise around a deity or temple (pradakshina).
-
-Islam: Tawaf around the Kaaba.
-
-<br></br><br></br>
-
-Hinduism: Pilgrimage to holy rivers, temples, and sacred cities (Varanasi, Rameshwaram, etc.).
-
-Islam: Hajj to Mecca, Umrah.
-<br></br><br></br>
-7️⃣ Ritual Purity & Cleansing
-
-Hinduism: Ritual bathing in rivers (Ganga), purification before prayers.
-
-Islam: Wudu (ablution before prayer), ghusl for major purification.
-
-
-8
-
-ጋሳኒያ የተባሉ የእስልምና ክፍሎች ካባ ከ ህንድ ነው የመጣዉ የሚል ጥርጣሬ ነበረባቸው
-<br></br>The Ghassanlya<br></br>. If also he says, ‘I know that God has enjoined
-pilgrimage to the Ka‘ba but I do not know where the Ka‘ba is, perhaps
-
-
-  <h1> </h1>
-      <Image 
-        src="/images/about/s29.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-    
-
-
-
-
-
-
-
-
-
-
-The Story According to the Script
-
-Long before Islam arose in Arabia, the land was said to have been part of a vast Indian empire ruled by King Vikramaditya. His kingdom stretched across many regions, and his influence — according to ancient accounts — extended even into the Arabian Peninsula.
-
-In that era, the Kaaba in Mecca was not yet known as an Islamic sanctuary. It was said to have been a temple dedicated to Lord Shiva, one of the great deities of the Hindu religion. The temple was called a Shiva shrine, and at its center stood a black stone, known in Sanskrit as Sanghi Ashweta, meaning “the non-white stone.” This was said to be the Shiva Lingam, the sacred symbol of the god.
-
-Surrounding the stone was a raised base — an octagonal pedestal — which, according to the story, resembled the Makām Ibrāhīm still found near the Kaaba today. In Hindu tradition, the pedestal of Brahma the Creator is also octagonal in form, showing a mysterious connection between the two.
-
-Every year, pilgrims of that ancient faith gathered around this temple and walked around it seven times in a circular motion, a ritual known in Sanskrit as Pradakshina. They offered prayers and recited hymns from the Vedas, the sacred Hindu scriptures that were said to have reached Arabia through Vikramaditya’s preachers.
-
-The story tells that, even in those days, the Arabs were followers of the Indian Vedic way of life. They revered the same deities, practiced similar customs, and celebrated an annual gathering around the Kaaba called Ukaz — believed to be the predecessor of today’s Hajj pilgrimage.
-
-Inside the Kaaba, there were said to be 360 idols, each representing celestial bodies and divine beings. Among them were idols of the Moon, Saturn, and other planetary gods. This is said to have been part of the Navagraha (Nine Planets) worship — a practice still common in Hinduism. One of these deities was called Allah, who represented the Supreme among them.
-
-According to the tale, when the Kaaba was later captured by new followers of Islam, all 360 idols were destroyed, and only the Black Stone (Shiva Lingam) remained, still kissed and touched by pilgrims even today.
-
-It is said that a golden inscription was once found hanging inside the Kaaba — the Vikramaditya Inscription — written in Sanskrit. It described how the Indian king’s priests had spread the Vedic teachings throughout Arabia. This inscription, the story says, is recorded in a volume called Sayar-ul-Okul, once kept in the Makhtab Sultania Library in Istanbul, Turkey.
-
-The video also claims that the crescent moon seen on the flags of Islamic nations originates from Shiva’s crescent, always depicted on his forehead, symbolizing the same heavenly body.
-
-Even the holy water of Zamzam, the spring near the Kaaba, is linked in this narrative to the sacred Ganga River of India. It is said that wherever the Shiva Lingam is found, the Ganga must also be present — and thus, the ancient Hindus regarded the spring at Mecca as the Ganga’s counterpart in Arabia.
-
-
-
-  
-    
-                </p>
-              </div>
-              <div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                 የእስልምናው አምላክ  ተዉሂድ  
-                 https://www.youtube.com/watch?v=OBUHmoq90jg&t=414s        
-                  </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                    
-                 
-               
-                 1 አላህ ማለት በአረበኛ አምላክ ማለት አይደለም
-<div>
-      <h1> </h1>
-      <Image 
-        src="/images/about/u1.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      https://www.youtube.com/shorts/HnjT0EZTdmE  
-    </div>ጥያቄያችን ኢላህ ማለት አምላክ ከሆነ አላህ ማለት ምን ማለት ነዉ
-
-                 
-                 <br></br>
-                 2. ጥያቄያችን ኢላህ ማለት አምላክ ከሆነ አላህ ማለት ምን ማለት ነዉ
-
-                 
-      <h1> </h1>
-      <Image 
-        src="/images/about/u2.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-<h1> </h1>
-      <Image 
-        src="/images/about/u3.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-      ከሙሃመድ በፊት የነበረ አላህ ካለ ጣኦት ነዉ የሚሆነዉ፤ ካልሆነ ቁራኑ ምንም መልክተኛ በመካ አላክንም እያለ፤ የትኛዉ ነቢይ አላህን ከሙሃመድ በፊት በመካ የሰበከዉ
-3. ከሙሃመድ በፊትአላህ የሚባል አካል  በመካ ይመለክ እንደነበረ የሙሃመድ አባት አብደላና ሱራ 16፡57 ለአላህ ሴት ልጆችን ያደርጋሉ ይላል፤ እነዚህ ሴቶቹ ጣኦታት ከሆኑ አባትየዉ ምንድነዉ የሚሆነዉ
-
-<h1> </h1>
-      <Image 
-        src="/images/about/u4.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <h1> </h1>
-      <Image 
-        src="/images/about/u5.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-
-      ስለዚህ ሙሃመድ ይህንየቁረሾች  አምላክ ነዉ የወረሰዉ፤ አንዳቸዉም በሴት በተበሰረ ጊዜ ከሆነ እርሱ(አላህ)የተቆጨ ሆኖ ፊቱ ጠቁሮ ይዉላል በማለት ፤ የቁሾች አምላክ የእርሱ አምላክ አንድ ስለሆኑ ዲፌንድ እያደረገለት/እየተከላከለለት  ነዉ፡፡
-ሱራ  6፡19  ፓጋኖች አላህ አምላክ ነዉ እንዴ ተብለዉ ቢጠየቁ  አዎ ይላሉ በማለት፤ የሙሃመድ አምላክና የቁረሾች አምላክ አላህ አንድ እንደሆኑ ተናግሩዋል
-
-  <h1> </h1>
-      <Image 
-        src="/images/about/u11.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-ታድያ ሙሃመድን ያበሳጨዉ ና ያናደደዉ፤ ለምን አጋሩ ሳይሆን ለምን ሴቶችን አጋሩ፤ ለምን ለእነሱ ወንዶችን ለአላህ እያጋሩ ለኔ ሴቶችን ይሰጡኛል ፤ ይሄ አድላዊ ክፍያ ነዉ የሚል ነዉ
-ለምሳሌ ሁባል የተባለ ወንድ ጣኦት አለ from 360
- <h1> </h1>
-      <Image 
-        src="/images/about/u10.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-ስለዚህ ከዚህ ነዉ ዉጡ እያልናቹ ያለነዉ፤
-ሙሃመድ ካባ ዉስጥ ነዉ ያለዉ
-
-
-
-https://surahquran.com/tafsir-ibn-kathir/159.html
-
-ሙሃመድ ከካብ አሁንም እንዳልወጣ የምንረዳዉ አላሁ ሰመድ
- በማለት አላህ እና ሰመድን አላሁ አክበር በማለት አላህ ና አክበርን
-   ወደ አንድ አምጥቶ ነበረ
-
-  <h1> </h1>
-      <Image 
-        src="/images/about/u6.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-  <h1> </h1>
-      <Image 
-        src="/images/about/u7.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-        <h1> </h1>
-      <Image 
-        src="/images/about/u8.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-        <h1> </h1>
-      <Image 
-        src="/images/about/u9.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-           
-             <h1> </h1>
-      <Image 
-        src="/images/about/u10.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />   
-        <h1> </h1>
-      <Image 
-        src="/images/about/u11.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />    
-      
-        <h1> </h1>
-      <Image 
-        src="/images/about/u12.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />  
-
-        <h1> </h1>
-      <Image 
-        src="/images/about/u13.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-        <h1> </h1>
-      <Image 
-        src="/images/about/u14.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-  <h1> </h1>
-      <Image 
-        src="/images/about/u15.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-        <h1> </h1>
-      <Image 
-        src="/images/about/u16.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-       <h1> </h1>
-      <Image 
-        src="/images/about/u17.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-በዚህ  ሙሃመድ  ጣኦታትን አንድ ሲያደርግ የተደነቁት ቁረሾች ምን አሉ፤ ሙሃመድ አማልክቶችን አንድ አደረጋቸዉን ይህ የሚያስደንቅ ነገር ነዉ አሉት
-
-  <h1> </h1>
-      <Image 
-        src="/images/about/u18.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-       <h1> </h1>
-       የሙሃመድ እቅዱ አረቦችን አንድ አድርጎ ተከታዮቹ ማድረግ እና አረብ ያልሆኑትን 
-ግብር ማስከፈል ነበረ፡፡
-አማልክቶችን ሰመድን ፤አክበርን በአላህ ስም አላሁ ሰመድ፤ አላሁ አክበር አድርገን ከያዝንና በዚህ ከተስማማን አረቦች የናንተ ተከታዮች ይሆናሉ አረብ ያልሆኑት ደግሞ ለእናንተ ግብር ይከፍላሉ ሲላቸዉ ፤ እነሱም፤ ሙሃመድ አማልክቶችን አንድ አደረጋቸዉን ይህ አስደናቂ ነገር ነዉ አሉ ተደንቀዉ
-
-      <Image 
-        src="/images/about/u19.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-
-
-
-      መጾምና መጸለይ ከሳቢያን እንደወሰደ
-
-
-      <Image 
-        src="/images/about/ii.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-
-      https://quranislam.github.io/tafsir/sura5-aya69.html
-
-         እውነተኛው የእስልምና አምላክ  እና  የክርስትና አምላክ 
-;; ከባ ዉጡ ከነአን ግቡ ወደ ጽድቅ ህይወት ዛሬ ቅረቡ ፤ ካባ ጣኦት ነው የሚመለከው የአህዛብ ሀገር የሞት መንደር ነው፡፡ 
-እንዳባታችን እንደ አብሃም ወገኖች ውጡ ፤ ከካባ ሃገር፤ የግፍ እንጀራ ይብቃችውና፤ ወገኖች ዉጡ በአምላክ ጎዳና              
-አንድ ነጻ አይምሮ ያለው ሰው አላህ ጣኦት ነው ብሎ  እንድናምን የሚያደርጉን 14 ምክን ያቶች አሉ
-በመጀመርያ ፤መጻፍቅዱሳችን  የተጻፈው በአረበኛ ቁዋንቁ ሳይሆን  በ ኢብራኢሰጥ ቈዋንቁ 
- የተጻፈ በመሆኑ ፤የትርጉዋሜ ስህተትና የእስልምና ተጽኖና ባህል ነው፤ የአረበኛዉ መጻፍቅዱስ 
-  አምላክ ለማለት አላህ ተብሎ እንዲተረጎም  ያደረገው እንጂ  በአረበኛ  አምላክ ማለት፤ ኢላህ 
-  ማለት ነው እንጂ አላህ ማለት በፍጹም  አይደለም፤  ቪዲዮ 
-   ታድያ በአረበኛ አምላክ ማለት ኢላህ ማለት ከሆነ፤ ሙሃመድ፤ የሱን አምላክ፤
-    ለተከታዮችና  ለአለም በቁራኑ አላህ ብሎ ሲያስተዋዉቅ፤ ስሙን ኬት አመጣው ነው፡፡
-<br></br>
-
- 1ኛ አላህ የሚለው ስም፤ ሙሃመድ ተገለጠልኝ ከማለቱ በፊት፤ አክበር
-  የሚባለው የጸሃይ አምላክ  አላህ የሚባለውን  የጨረቃ አምላክ አግብቶ ሶስት ልጆች አላት አሉዛና
-   መናት ፤ የሚባሉ ጣኦት ሴት ልጆችን  ወለደ ተብሎ ፤  እንደሚመለክ በሱራ 16 ፤ 57 ላይ ወየጅአሉና 
-   ሊላሂ አልበናት፤ ለአላህም ሴት ልጆችን ያደርጋሉ በማለት ይገልጻልና ፤,ሙሃመድ  ቀጥታ ይህን  የጣኦት
-    ስም እንደወረሰው ና ወደ እስልምና እንዳሻገረው  ግልጽ	`ነው;፤
-
-<br></br>ሱራ 16፡57 ለአላህም ሴቶች ልጆችን ያደርጋሉ፡፡ጥራት ተገባዉ
-
-
-<h1> </h1>
-      <Image 
-        src="/images/about/aa1.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-    
-                    
-
-           <br></br>    
-
-           2ኛ፤የሙሃመድ አባት  ስም አብደላህ 
-           ነው፤
-            ትርጉሙ የአላህ ባርያ ማለት ነው ፤
-             ሙሃመድ እንደነገረን የሙሃመድ አባት ጣኦት  
-              በማምለኩ ምክንያት፤ሲኦል ነው
-               ‘ያለው፤፤ሙሃመድ ደግሞ ተገለጠልኝ እስካለበት 
-               ቀን ድረስ ፤ የቤተሰቦቹን ጣኦት እንደሚያመልክ ግልጽ ነዉ; 
-
-                ፤  
-               ሙሃመድ በግልጽ ያኛና የቁረሾች  አምላክ አንድ ነዉ ብሉዋል 
-
-
-
-
-                ፤ ስለዚህ አላህ የሚለው ስም ፤ ሙሃመድ  ከጅብሪል
-                 ያገኘውና የተቀበለው አዲስ ስም ሳይሆን ፤
-                 
-                    ሙሃምድ አላህ የሚለውን  
-                     ስም ፤ቀጥታ የባቱን  ጣኦት ስም  ወርሶት  ወደ እስልምና 
-                     ያሻገረው	`ነው;፤የእኛ አምላክና የቁረሾች ቀደመዉ ከሙሃመድ በፊት በጀሃሊያ ጊዜ የሚያመልኩት አምላክ አንድ ነዉ የሚሉ ከሆነ፤ የትኛዉ ነቢይ ነዉ ፤ ከሙሃመድ በፊት መካ ሄዶ ያስተማረዉ ሱራ 33 ከአንተ በፊት መልክተኛን ወደ መካ አላክንም ይላል ፤ እንዲሁም፤ በ 2ኛ ክፍለ ዘመን ፤ የነበረዉ የቤተክርስትያናችን አባት ስለ አረብ አምልክ ዲንጋይ አምላኪዎች እንደነበሩ ተናግሩዋል፤ ዲንጋይክን አዛዉ ያዝልን፤ እኛ የመጽሃፉ ሰዎች አምላካችን የቁረሾች አምላክ አይደለም
-Sunan abi dawud 4718 <br></br>
-3. 3ኛ አላህ የሚለው ስም  ከክርስትያኖችና የአይሁዶች አምላክ ስም  በግብርና በስም የራቀ  ነው፤
-የኛ የክርስትያኖች አምላክ መንፈስ ነዉ፤ በማት እግዚአብሄር መንፈስ ነው ፤ ይላል የእስልምናው አምልክ እንደ እስልምና ፈትዋ አስተምሮ መንፈስ ሳይሆን በወርድ በዳይሜንሽን፤ በቁመት ና በስፋት ተወስኖ  በአርሽ  ተገድቦ ያለ ነው፤ 
-የኛ የክርስትያኖች ና የአይሁዶች አምላክ ፤ የባሃሪ ልጅ አለው ፤  የእስልምናው አምላክ የባህሪ ልጅ የለውም፤
-በ እስልምና አላህ 99 ስሞች አሉት ፤ ከነዚ ስሞች ዉስጥ ፤ የአይሁዶችና የክርስትያኖች  አምላክ ስም የሆነው፤ ኤሎሂም፤ውይም  ኤል፤ አንድም ቦታ አለመገኘቱ ፤ከክርስትያኖችና ከአይሁዶች ጋር የማይገናኝ አምላክ መሆኑን እንረዳለን፡
-
-
-           <br></br>   
-            
-4 አላህ ከቁረሽ ጣኦታት የተኮረጀ፤ የአላት የምትባል ጣኦት የወንድ ጾታ አንቀጽ ስም ነው፤ 
-አበበች ብለን አበበ እንደምንለው ፤ ጫልቱ ብለን ጫላ እንደምንለው ፤ ፤ በአረበኛ ተመርቡትን ጨምረን፤ ሙ አሊመቱን ብለን ሟሊሙን እንላለን፡፡
-አላት ብለን ፤ አላህ እንላለን፡፡ አላት በሙሃመድ ዘመን ፤ የአላህ ልጅ ተብላ የምትጠራ ሴት  የጣኦት ስም ናት፤
- <br></br>  5 አላህ እንደ እስልምና አስተምሮ 2ቱ እጆቹ ፤ በቀኝ በኩል ያሉት  ናቸው፤ ይህም አንድ በሰው እጅ የተጠረበ ጣኦት የሚያስመል ነው እንጂ አንድ ሰማይና ምድርን የፈጠረ ጌታ የሚያስመስለው አይደለም፤
-
- <br></br> 6።እንደ ተፍሲራት አስተምሮትና እንደ ኡስታዝ ሙሃመድ ኢሳ ማብራርያ መሰረት፤ አላህ ማለት የእስልምናዉ አምላክ ፤ በክብጃ ፤ በአክብሮትና በበላይነት ሲጠራ አላህ ይባላል፤ተብሎ ይታመናል ፡፡ታድያ  በክብጃ ፤ በኣክብሮት፤ እንዲጠራ  ያደረገው  ቃላት አል  የሚለው ቅድመ ቅጥያ  እንደሆነ  የእስልምና ተፍሲራት ይነግሩናል ፡፡
-
- <br></br> ይህ በእስልምና ብቻ ሳይሆን የቁረሽ ጣኦት አምላኪያን አማልክቶቻቸውን ሲጠሩ አማልክት መሆናቸውን የሚታወቀው አል የሚለውን ቅድመ ቅጥያ በመጨመር ነው፤ ለምሳልይ አላት አሉዛ አላክበር የሚሉትን የጣኦት ስሞች ብንወስድ ትክክለኛ የነዚ የጣኦታት ስም ላት ኡዛ እና አክበር ሲሆን ፤ አማልክት መሆናቸውን ና ስማቸውን በክብጃና በአክብሮት ለመግለጽ አል የሚለውን በመጨመር አላት ፤አሉዛ፤ አልአክበር በማለት ይጠራሉ፤
-በተመሳሳይ  አልላህ  ፤ የሚለውን ስም ፤ ላይ በክብጃ በአክብሮት እንደ አማልክት እንዲጠራ ያደረገውን  አል ቅድመ ቅጥያን ስናነሳ ላህ የሚባል ስምን እናገኛለን፤ አል የሚለው አማልክት መሆኑን ሲያሳይ፤ ላህ የሚለው የእስልምና አምላክ ስም ነው፤ ለምሳሌ በሱረቱል ፋቲሃ ፤ 1፤2 ላይ አልሃምዱ ሊላሂ፤ ምስጋና ለላህ  ይግባው ይላል፤ እንጂ ምስጋና ለ አላህ ይግባው አይልም፤
- <br></br>ምስጋና ለአላህ ይገባዉ የአለማት ጌታ የሆነዉ
-<br></br>
-7 የአረብ አርኮሎጂስት እንዳረጋገጡት ላህ ፤የሚባል ጣኦት ትርጉሙ የጨረቃ አምላክ የሆነ ፤ ላህ የሚባል ጣኦት በቀድሞ አረብ እንደ ሚመለክ አረጋግጠዋል፤
-
-<br></br>8 በሁሉም መስኪድ ላይ የተሰቀለ የጨረቃ ቅርጽ በመስኪድ አናት ላይ አለ፤
-9። በ እስልምና ሙስሊሞች አራያ እንዲያደርጉት የታዘዙት ሙሃመድን ነው፤ሙሃመድን ደግሞ መላ ዘመኑን ጣኦት ተለይቶት አያውቅም፤ 
- ተገለጠልኝ ያለው በ 40 አመቱ ነዉ፤ ለ 40 አመታት የአባቱን ጣኦትን ሲያመልክ መኖሩ ግልጽ ነው፤
-10። ጂብሪል መጣልኝ ከማለቱ ከ 6 ወር ቡሃላ ገደማ ፤ በ ሱራ 74፤1 ሙሃመድ ከጣኦታት እራቅ ተብሉዋል፤ 
-<br></br>11 ሙሃመድ ጂብሪል  ተገለጠልኝ ካለ  ከ 5 አመት ቡሃላ ለአላት አሉዛና መናት ለሚባሉ ጣኦታት ሰግዱዋል፤ተፍሲር 
-12ተገለጠልኝ ካለ  ከ 14 አመት አመት ገደማ ፤ በ 2ተኛ አመት ሂጂራ ጀምሮ፤ በመዲና ሆኖ ፊቱን ወደ ካባ አዙሮ 360 ጣኦታት ወዳሉበት እስከ ፈት ዘመቻ ድረስ  ለ 8 አመታት ዞሮ ወደጣኦታቱ አላትን፤አሉዛና መናትን የመሰሉ ጣኦታት ወደሚገኙበት እየሄደ  ይሰግድ ነበረ፤ 
-13ሙሃመድ በመዲና ሆኖ በካባ ይምል ነበረ፤እንደ እስልምና አስተምሮ በአንድ አካል መማል፤ እርሱን እንደማምለክ ይቆጠራልና  ሺርክ ነው፤ ሙሃመድ ይህን ጥሶ በካባ ይምል ነበረ፤
-14የቁረሽ ነዋሪዎች እስኪታዘቡና በሱራ 38 ላይ ሙሃመድ አማልክቶችን አንድ አደረጋቸውን ይህ የሚያስደንቅ ነገር ነው እስኪሉ ድረስ  ሙሃመድ በመጨረሻ  ሶመድ፤ ጀድና፤ አላአክበር የሚባሉትንን የካባ ጣኦታትን በጭፍለቃ፤  አንድ አድርጉዋቸዋል፤
-በ ሱራ 112፤ ላይ አልህ አንድ ነው አላህ ሶመድ ነው ;
-ከካባ ዉጡ ከነአን ግቡ የፍቅርን መንግድ ዛሬ ፈልጉ ፤ ካራን ጣኦት ነው የሚመለከው ፤ የአህዛብ ሃገር የሞት መንገድ ነው፡፡
-
-<br></br>ጥያቄው ግልጽ ነው፡፡ መነሻችን አላህ ማነው ነው፡ ነው፡ ስሙ ኬት መጣ ፤እንዴስ 2ት እጅ በቀኝ በኩል የሆነ የተጠረበ የሚመስል ጣኦት መሰለ ነው፡፡
-እንግዲህ ይሄን አላህ የሚለውን ስም ለመጀመርያ ጊዜ የሰማነው ከአረብ ምድር  ነው፤ ከአረብ ሃገርና ባህል ከመካ አከባቢ ነው፤ቁራንም ደጋግሞ የሚነግረን ቁራን የወረደው በአረበኛ ቁዋንቁዋ ነው ስለዚህ ይህንን ስም ደባብሶ ለማለፍ፤ በእስራኤል  ሃገር   በተጻፈ መጻፍቅዱስ ወስጥ  መደበቅ ወደ እውነት  ሊያደርሰን የሚችል አይደለም፤
-የአላህን ማንነት፤ የእስልምና መጻህፍት ቁራንና ሃዲሳትት  የሚነግሩን፤ አላህ የሚለው ስም ምንጩ፤ አላት አሉዛና መናት የሚባሉ ሴት  ልጆች ያሉት አካል እንደሆነ ነዉ; ሱራ 16፤57
- እነዚህ   ፤ 3 ቱ ልጆቹ ደግሞ ከ 360 የአረብ ጣኦታት ውስጥ የሚገኙ መሆናቸውን ፤ዊኪፒዲያ ጎግል ማድረግ ትችላላቹ ሲቀጥል፤ ሁሉም የእስልምና ተፍሲራት  ጣኦት መሆናቸውን በዚህ ይስማማሉ 
-ስለዚህ  እነዚህ የአላህ ልጆች የተባሉት ጣኦት ከሆኑ የነዚህ ልጆች  አባት አላህ ፤ ጣኦት እንደሆነ ፤ለማወቅ የተለየ እውቀት ወይም አይኪው የሚያስፈልገው ነገር አይደለም፡፡
-
-
-<br></br>በሱራ 16፤ 57 ምን ይላል ለአላህም ሴቶች ልጆችን ያደርጋሉ ፤  ፤ ይልና ጥራት ተገባው አይልም፤ ሰብሃነሁ  ነው የሚለው ምስጋና 
-በሱራ 16፤ 57 ምን ይላል ለአላህም ሴቶች ልጆችን ያደርጋሉ ፤  ፤ ይልና ጥራት ተገባው አይልም፤ ሰብሃነሁ  ነው የሚለው ምስጋና ለርሱ ይሁን/ ከፍ ከፍ ያለ ነው ተብሎ ይፈታል ፤ ወርዳቹ ኢንግሊዘኛውን ቼክ አድርጉ  ፤exalted is he ነው የሚለው፤ 
-ከዚያስ ለአላህም ሴቶች ልጆችን ያደርጋሉ ከፍ ከፍ ያለ ነው   ከእነርሱም የሚፈልጉትን  ወንዶች  ልጆችን ያደርጋሉ
-አንዳችውም በሴት ልጅ በተበሰረ ጊዜ እርሱ የተቆጨ ሆኖ  ፊቱ ጠቁሮ ይውላል ይላል፤
-ይህ የሚነግረን ምንድነው፤ የቁራኑ ጸሃፊ ምን እያለን ነው፤ አላህ በሴት ልጆች መበሰሩ እንደሚያንስበትና ፤ ወንድ ልጆች እንደሚሻሉት አለበለዚያ  አላህ  በቁጭት ፊቱ ጠቁሮ እንደሚውል እየነገረን ነው፤
- ስለ እስልምናው ኣላህ አይደለም እያወራ ያለው የምትሉ ከሆነ፤ ይህን ጥቅስ ያገኘነው፤ ቁራን ውስጥ ነው
- ፤ እንዴት ቁራን ውስጥ ተገኝቶ ፤ ስለእስልምናው አላህ አይደለም እያወራ ያለው ይባላል
-
-
-<br></br>እውነት ሙሃመድ ፤ እዚጋር፤ ፊቱ ጠቁሮ ይውላል ሲለን   ስለአንድ የሚታይ  ፤ የሚጨበጥ፤ የሚዳሰስ፤ ሼፕ ያለው፤ 2ት እጆቹ በቀኝ በኩል የሆነ የቈረሽ ጣኦት ፤ በመካ ውስጥ ስለሚታየው ነገር እያወራ ነው ፤ ወይስ፤  ስለሌላ;;;፤?፤  ይህን  ገመና ለመደበቅ  የመጻከፉ ሰዎች አምላክ ጋር አትታከኩ;፤ የኛ አምላክ ሲጀመር ፤ መንፈስነው፤ ሲቀጥ፤ በትንሹ በትንሹ ፤2 እጁ በቀኝ በኩል የሆን አምላክ የለንም፤ ነው፡፡የኛ አምላክ ፤አረበኛ  ብቻ ተናጋሪ አይደለም፤ አማርኛ ጸሎትንም  ይሰማል  ሲቀጥል፥፤የኛ አምላክ  ሁሉም ቦታ የሚገኝ መንፈስ ነው እንደ እስልምና ፈትዋ መሰረት አላህ መንፈስ አይደለም፤ 
-
-<br></br>ከአንድ ቦታ ወደ አንድ ቦታ መሄድ ሲፈልግ፤ዝቅ ከፍ ፤ ብድግ ቁጭ ማለት የሚጠበቅበት ነው፤2ት እጆችቹ በቀኝ የሆነ  ጣኦትን የሚመስል አምላክ የለንም፤የአብርሃም የይሳቅ የያቆብ አምላክ  እንደሙሃምድ አምላክ 2ት እጆቹ  በቀኝ በኩል የሆኑ እጆች የሉትም ፤ ይህ የሙሃመድ አምላክ ነው፤
-ነዉ፤መጻፍቁስ ምን ይላል፤መዝሙረ ዳዊት 113፤ አማልክቲሆሙ ለአህዛብ፤ ዘወርቅ ፤ወዘብሩር፤ ግብረ እደ እጉዋለእመህያው፤ የአህዛብ አማልክቶች፤ ከወርቅና ከብር የተሰሩ አማልክቶች ናቸው ፤እድ ቦሙ ወኢይገሱ እጅ አላቸው አይዳስሱም፤  አፍ ቦሙ ኢይነቡ፤ አፍ አላቸው አይናገሩም ፤አይን ቦሙ ወኢይሬእዩ፤ አይን አላቸው አያዩም እዝን ቦሙ ወኢይሰምኡ፤  ጆሮ አላቸው አይሰሙም አንፍ ቦሙ ወኢያጼንው፤አፍንቻ  አላቸው አያሸቱም ፤ 
- 
- ስለዚህ አምላካቹን፤ ስም ለመደበቅ ፤  አላህ ጣኦት ነው፤ የሚል ቁራን ላይ ካላገኘው አላምንም  የምትሉ የዋህ ሙስሊሞች  አትሁኑ፤ በእስልምና ሁላችን እንደምናውቀው፤ በሶስት ነገር ተቂያ መዋሸት ፤ ይፈቀዳል፤ ከዚያ ውስጥ አንዱ፤ሃይማኖትን ለማዳን ነዉ፤
-<br></br>
-እስቲ መቼነው ሙሃመድ  ጣኦት ተለይቶት የሚያውቀው ሙሃመድኮ  አመንኩ ጂብሪል ተገለጠልኝ ካለ  ከ 5 አመት ቡሃላ ለአላት ፤ አሉዛና መናት፤ ምልጃቸው ይታመናል ብሎ  ለነዚህ ጣኦታት ሰግዱዋል፤   አስባብ አልኑዙል፤ሱራ፤ 22 ትርጉዋሜን አንብቡት፤ ;፤
-አንድ አካል ጂብሪል ተገለጠልኝ በራልኝ፤ ካለ ቡሃላ፤ እንዴት  ለአላት ፤አሉዛና መናት ለሚባሉ ጣኦታት ሊሰግድ ቻለ፤፤እንዴት ስ የቁረሽ ፤ ጣኦት አምላኪዋች  እስኪደሰቱ ሰገደ፤ ምልጃቸው ይታመናል፤ እንዴት ሊል ቻለ’;፤
- 
-    የሙስሊሞችን አምላክ ካየን የክርስትያኖች ን ንመልከት  ፤ ያ  ቃል ቀዳማዊ ነው ፤ ያ ቃል በእግዚአብሄር ዘንድ የእበረ ነዉ ፤ ያ ቃል እግዛብሄር ነው 
-ስጋን በመልበሱ ክርስቶስ ያልነው፤
-ሙስሊም ውንድሜ ሆይ ሙስሊም እህቴ ሆይ
-<br></br>
-
-በመጀመርያ መነሽዐጭኝ ሙሃመድ የመጻፉ ሰዎችን ሲያያ የመጻፉ ስዎችን የሚመስል፤ የቁረሽ ህዝቦችን ሲያያ የቁረሽ ህዝቦችን የሚመስል ወላዋይ ሰው ነው፤
-አላህ  ሰውን በመልክ ፈጠረው፤ ኣምላካችንም አምላካቹም ፤ አንድ ነው ማለቱ ክክርስትያኖች  ጋር ለማመሳሰል መሞከቱ ሲሆን፤ አልነሳኤ 5373 አላህ ቀኝ እጆቹ 2ትቱ በቀኝ በኩል ናቸው ማለቱ፤ በዘመኑ የነበሩትን አባቶቹ የሚያመልኩትን ጣኦታት ተመልክቶ ፤ የነሱን አምላክ ለማስመሰል የኦከረው ሙከራ ነው
-ዉሂ ወረደለኝ ካለ ከ  አመት ቡሃላ ለ አላት አሉዛና መናት መስገዱ የሚዘነጋ አይደለም;
-የክርስትያንኖች አምላክ እንደ የሙሃመድ አምላክ 2ት እጆቹ በቀኝ የሆኑ፤ በዲንጋይ የሚሰራ፤  የአረብን ጣኦት የሚመስል አምላክ አይደለም፤
-ኢብን ተም ያ ፤ ኢብን አባስን ጠቅሶ እንዳስተማረን ፤ የአላህ እጅ የድንጋይ እጅ እንደሆነ ጥቁሩ ድንጋይ
-የአላህ ቀኝ እጁ ነው ይለናል፤ 
-
-<br></br>
-የአላህ እጅ ከአላህ የተለየ አካል በፍጹም አይደለም;፡፡የአላህ እጅ ባለበት ሁሉ ኣላህ አለ ተብሎ ይአላታመናል፡፡ አላህ የድንጋይ እጅ ካለው አላህ ሰውነቱ በኡሉ ድንጋይ ነው የሚሆነው፡፡
-ለዚህ ነው ሙሃመድ ከአላህ በቀር ሃጥያትን ይቅር የሚል እንደሌለ እየታወቀ፤ ካባን የሳመ ሃጥያቱ ይቅር ይባልለታል የሚለን ሱነን አተርሚዚ ስድስትመቶ 77
-ለዚህ ነው ሙሃመድ  ተገለጠልኝ ዉሄ መጣልኝ ካለ ቡሃላ እራሱ በካባ የሚምለው፡እንደ እስክንምና አስተምሮ፤ ከአላህ በቀር መማል ሃረም እንደሆነ እየታወቀ፤ 
-ለዚህ ነው ሙሃመድ ተገለጠልኝ ካለ ከ  አምስት አመት ቡሃላ፤ ለ አላህት መናትና አሉዛ ተንበርክኮ ይሰግድ የነበረው፡፡አስባብ አልንዙል 22፤ሃምሳ ሁለት
-በሱረቱል ኢክላስ 112 ላይ ፤ ያ ሙሃመድ ኩል ወአላሁ አሃድ ወአላሁ ሶመድ አለ፤ 
-ዉ
-
-<br></br>አላህ አንዱ ነው አላህ ሶመድ ነው ይለናል፤ ሶመድ ማለት ፤ ኢብን አባስ እንዳለን የማይበላ የማይጠጣ ፤ ዉስጥ ክፍል የሌለ፤ ዉ ቀዳዳ የሌለውድንጋይ  መግብያና መዉጫ  የሌለው ነው ይለናል፤ 
-አላህ  ለስላሳ የነ ባዶ ድንጋይ ነው ይለናል ቁራኑ
-ይህ በእዉነት የሚያስ ደንቅ ነገር ነው፡፡ለዚህ ነው የቁረሽ ህዝቦች ይህን ታዝበው ነው ፤ የቁረሽ ህዝቦች ይህ ሙሃመድ አማልክቶቹን አንድ አደረጋቸውን ይህ የሚያስደንቅ ነገር ነየ ያሉት፤ 
-አላህ የሙሃመድ የፈጠራ ዉጤት ባይሆን ኖሮ ፤ ሁለት እጁ በቀኝ በኩል የሆነ አምላክ ሰማይና ምድርን ይገዛ እንደነበረ፤ ሙስሊሞች ማሳየት ባልከበዳችቸው ነበረ፤ 
-የአላህ 2ት እጆቹ በቀኝ በኩል ከሆኑ፤ የርሱ እጆች የተጠረበ የቁረሽ ጣኦት የመደለናል ፤ ከሙሃመድ ዘመን በፊት ከቁረሽ ጣኦታት የተወስደ፤ የሙሃመድ ምናባው ተፈጠረአ 
-ዉጤት ነዉ የሚሆነው፤ 
-
-<br></br>አላህ አንዱ ነው አላህ ሶመድ ነው ይለናል፤ ሶመድ ማለት ፤ ኢብን አባስ እንዳለን የማይበላ የማይጠጣ ፤ ዉስጥ ክፍል የሌለ፤ ዉ ቀዳዳ የሌለውድንጋይ  መግብያና መዉጫ  የሌለው ነው ይለናል፤ 
-አላህ  ለስላሳ የነ ባዶ ድንጋይ ነው ይለናል ቁራኑ
-ይህ በእዉነት የሚያስ ደንቅ ነገር ነው፡፡ለዚህ ነው የቁረሽ ህዝቦች ይህን ታዝበው ነው ፤ የቁረሽ ህዝቦች ይህ ሙሃመድ አማልክቶቹን አንድ አደረጋቸውን ይህ የሚያስደንቅ ነገር ነየ ያሉት፤ 
-አላህ የሙሃመድ የፈጠራ ዉጤት ባይሆን ኖሮ ፤ ሁለት እጁ በቀኝ በኩል የሆነ አምላክ ሰማይና ምድርን ይገዛ እንደነበረ፤ ሙስሊሞች ማሳየት ባልከበዳችቸው ነበረ፤ 
-የአላህ 2ት እጆቹ በቀኝ በኩል ከሆኑ፤ የርሱ እጆች የተጠረበ የቁረሽ ጣኦት የመደለናል ፤ ከሙሃመድ ዘመን በፊት ከቁረሽ ጣኦታት የተወስደ፤ የሙሃመድ ምናባው ተፈጠረአ 
-ዉጤት ነዉ የሚሆነው፤ 
-
-<br></br>
-በሳሂ አልቡክሃሪ 437 ላይ ;በዘመኑ የነበሩ የቁረሽ ህዝቦች ፤ ለዲንጋዮች እንደግድ ነበረ፤ ከርሱ የተሻለ ድንጋይ ካገኘን እንጥለውና፤ ሌላ ውስደን እንሰግዳለን፤ ድንጋይ ካላገኘን፤
-አፈር ሰብስበን በዙርያው ተዋፍ እናደርግ ነበረ ይሉናል;
-የእስልምና ሰይጣን ሁሉም ቦታ ፤ ይገኛል ፤ አንድ ሰው ሶላት ሳያደርግ ፤ አርፍዶ ከተነሳ፤ ሰይጣን ጆሮዉ ላይ ይሸናል
-ሚሊዮን ሙስሊሞች ከረሱ
-ምናባዊዉ የተፈጠረ አላህ ሁሉም ቦታ ባለመገነቱ ከአላህ በታች ነው፤ በዳይሚንሽንና በወርድ የተገደበ ነው
-በዮመል ቂያማ ጊዜ፤ በሙስሊሞች ባቱ ሳይቀር፤ ባቱ በአይን የሚታይ ሼፕ ያለው አካል ነው፡፡ 
-
-
-<br></br>
-
-ሙሃመድ አምላክ የፈጠረው ፍጥረት ዉስጥ መገኘት አይችልም፤ 
-በሙሃመድ ምናብ ዉስት የተፈጠረ ሁሉን ማድረግ የማይችል  ነው፤  ልጅን ለመውለድ ግዴታ ሚስት ያስፈልገኛል ይላል፡፤የእስልምናው ስይጣን ግ ን ያለሚስት በገበያ እንቁላል እየጣለ በእንቁላል ይራባል፤ 
-የሙሃመድ ሰይጣን ፤ ያለ ሚስት ይራባል፤ ያለ ሚስት ልጅን ይወልዳል፤ 
-የሙሃመድ አምላክ ግ ን እንደ ወንድ ልጅ ልጅ ለመያዝ ግዴታ ሚስት ያስፈልገዋል፡፡
-ለዚህ ነው ሙሃመድ ፤ በሙስሊሞች ምናብ የተፈጠረ አምላክ ነው የሚለው፡፡
-ለዚህ ነው  ሁለት እጆቹ በቀኝ ከ 340 ጣኦታ ዉስጥ አንዱን የሚመስለውን ፤ ጣኦት እራቁ የምንለው፤
-ዳዊትኒ ይቤ፤ አማልክቲሆሙ ለአህዛብ ዘወርቅ ወዘብሩር ፤ አይን አላህቸው አያዩም የሙለው
-
-
-
-
-
-
-
-   
-                      </p>
-                             </div>
-
-
-  <div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-         
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                    </p>
-                           
-                              </div>
-
-                                <div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-           
-              </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                     </p>
-                            
-                              </div>
-
-                                       <div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-      
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                      </p>
-                           
-                              </div>
-
-                              
-                                       <div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-     
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                         </p>
-                           
-                              </div>
-
-
-
-
-                                       <div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-       
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                          </p>
-                           
-                              </div>
-
- <div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-  
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                       </p>
-                           
-                              </div>
-
-
-<div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
- 
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-               
-       </p>
-                           
-                              </div>
-
-
-
-<div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
- 
-
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-               
-
-          
 
        </p>
                            
                               </div>
 
-
+</div>
 
 
               <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
@@ -2291,7 +1810,7 @@ Sunan abi dawud 4718 <br></br>
             </div>
           </div>
         </div>
-      </div>
+     
     </section>
   );
 };

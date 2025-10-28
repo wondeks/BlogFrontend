@@ -60,32 +60,33 @@ const AboutSectionOne = () => {
                     onClick={() => setShowSectionTwo(!showSectionTwo)}
                     className="rounded bg-primary px-2 py-3 text-white hover:bg-primary-dark"
                   >
-                  <h5>  2. መግብያ እና የክርስትና ትርጉም
+                  <h5>  1. ክርሰትና መግብያ እና
+                     የክርስትና ትርጉም
  </h5>
                   </button>
 
-
+<button
+                    onClick={() => setShowSectionFour(!showSectionFour)}
+                    className="rounded bg-primary px-6 py-3 text-white hover:bg-primary-dark"
+                  >
+                   2. እስልምና  መግብያ እና የእስልምና ትርጉም?
+                  </button>
 
                   <button
                     onClick={() => setShowSectionThree(!showSectionThree)}
                     className="rounded bg-primary px-6 py-3 text-white hover:bg-primary-dark"
                   >
-                    3.  ለኛ ለአማኞቹ  ምን መሰረተ
+
+                    3.  ጌታችን ለትክክለኝነቱ ማስጃ ካቀረበ ቡሃላ
+          ለኛ ለአማኞቹ  ምን መሰረተ
                   </button>
 
-                  
-                  <button
-                    onClick={() => setShowSectionFour(!showSectionFour)}
-                    className="rounded bg-primary px-6 py-3 text-white hover:bg-primary-dark"
-                  >
-                   4. እስልምና ማለት?
-                  </button>
-
+                              
                   <button
                     onClick={() => setShowSectionFive(!showSectionFive)}
                     className="rounded bg-primary px-6 py-3 text-white hover:bg-primary-dark"
                   >
-                   5.  የሙሃመድ አላማ 610-632 ?
+                   4.  የሙሃመድ አላማ 610-632 ና ለተከተሉት ኡማዉ በስተመጨረሻ ምን ሰጠ
                   </button>
 
 
@@ -94,6 +95,14 @@ const AboutSectionOne = () => {
                     className="rounded bg-primary px-6 py-3 text-white hover:bg-primary-dark"
                   >
                  6. ሙሃመድ ማነዉ?
+                  </button>
+
+                    <button
+                    onClick={() => setShowSectionEleven(!showSectionEleven)}
+                    className="rounded bg-primary px-5 py-3 text-white hover:bg-primary-dark"
+                  >
+                  12. የአላህ ማንነት
+
                   </button>
 
                   <button
@@ -116,25 +125,19 @@ const AboutSectionOne = () => {
                     className="rounded bg-primary px-6 py-3 text-white hover:bg-primary-dark"
                   >
 
-                  9. የጌታችን  አምላክነት
+                  9. የጌታችን  አምላክነትና በስጋ መገለጥ
                   </button>
 
                   <button
                     onClick={() => setShowSectionTen(!showSectionTen)}
                     className="rounded bg-primary px-5 py-3 text-white hover:bg-primary-dark"
                   >
-                  10. ሚስጢረ ስጋዌ 
+                  10. ነገረ ድህነት
                   </button>
 
         
         
-                  <button
-                    onClick={() => setShowSectionEleven(!showSectionEleven)}
-                    className="rounded bg-primary px-5 py-3 text-white hover:bg-primary-dark"
-                  >
-                  12. ሚስጢረ ስጋዌ 
-
-                  </button>
+                
                   <button
                     onClick={() => setShowSectionTwelve(!showSectionTwelve)}
                     className="rounded bg-primary px-5 py-3 text-white hover:bg-primary-dark"
