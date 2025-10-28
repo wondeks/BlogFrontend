@@ -1,17 +1,19 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  reactStrictMode: true, // Recommended for catching potential issues
+
   images: {
-    domains: ["192.168.0.104"], // your LAN IP
+    domains: ["192.168.0.104"], // LAN IP for local images
     remotePatterns: [
       {
         protocol: "https",
         hostname: "cdn.sanity.io",
-        port: "",
+        port: "", // leave empty if no custom port
       },
     ],
   },
 
-  // Allow all requests coming to this LAN IP in dev mode
+  // Allow local network devices to access the dev server
   allowedDevOrigins: [
     "http://192.168.0.104:3000", // your PC's LAN IP
   ],
