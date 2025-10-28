@@ -3,13 +3,23 @@
 import { useState } from "react";
 import { useUser, SignIn } from "@clerk/nextjs";
 
+// ✅ Define form data type
+interface FormDataType {
+  title: string;
+  content: string;
+  image: File | null; // File or null
+  tags: string;
+  publishDate: string;
+}
+
 export default function AddPost() {
   const { isSignedIn, user } = useUser();
 
-  const [formData, setFormData] = useState({
+  // ✅ Type-safe state
+  const [formData, setFormData] = useState<FormDataType>({
     title: "",
     content: "",
-    image: null,  // Change to null since we're now uploading a file
+    image: null,
     tags: "",
     publishDate: "",
   });
@@ -22,6 +32,7 @@ export default function AddPost() {
     );
   }
 
+  // Slugify title for URL
   const slugify = (text: string) =>
     text
       .toLowerCase()
@@ -30,25 +41,28 @@ export default function AddPost() {
       .replace(/[^\w\-]+/g, "")
       .replace(/\-\-+/g, "-");
 
+  // ✅ Handle text inputs and textarea
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
   ) => {
-    setFormData((prev) => ({
+    setFormData((prev: FormDataType) => ({
       ...prev,
       [e.target.name]: e.target.value,
     }));
   };
 
-  // Handle image file change
+  // ✅ Handle file input change
   const handleImageChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    if (e.target.files) {
-      setFormData((prev) => ({
+    if (e.target.files && e.target.files[0]) {
+      const file = e.target.files[0];
+      setFormData((prev: FormDataType) => ({
         ...prev,
-        image: e.target.files[0], // Store the selected file
+        image: file,
       }));
     }
   };
 
+  // ✅ Handle form submit
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
@@ -59,27 +73,37 @@ export default function AddPost() {
     postData.append("user", user.id);
     postData.append("desc", formData.content.slice(0, 150));
     postData.append("category", "general");
-    postData.append("author", JSON.stringify({
-      name: user.fullName || user.emailAddresses[0].emailAddress,
-      image: "",  // you can add the image here if needed
-      designation: "Author",
-    }));
-    postData.append("tags", formData.tags.split(",").map((tag) => tag.trim()).join(","));
+
+    postData.append(
+      "author",
+      JSON.stringify({
+        name: user.fullName || user.emailAddresses[0].emailAddress,
+        image: "",
+        designation: "Author",
+      })
+    );
+
+    postData.append(
+      "tags",
+      formData.tags
+        .split(",")
+        .map((tag) => tag.trim())
+        .join(",")
+    );
     postData.append("publishDate", formData.publishDate);
 
-    // Append the image if exists
     if (formData.image) {
-      postData.append("image", formData.image); // The image file
+      postData.append("image", formData.image);
     }
 
     try {
-      const response = await fetch("http://localhost:5000/api/postss", {
+      const response = await fetch("http://localhost:5000/api/posts", {
         method: "POST",
-        body: postData,  // Send FormData to backend
+        body: postData,
       });
 
       if (response.ok) {
-        alert("Post added successfully!");
+        alert("✅ Post added successfully!");
         setFormData({
           title: "",
           content: "",
@@ -88,11 +112,11 @@ export default function AddPost() {
           publishDate: "",
         });
       } else {
-        alert("Failed to add post.");
+        alert("❌ Failed to add post.");
       }
     } catch (error) {
       console.error("Error submitting form:", error);
-      alert("An error occurred.");
+      alert("⚠️ An error occurred while submitting the form.");
     }
   };
 
@@ -102,7 +126,11 @@ export default function AddPost() {
         <h1 className="text-3xl font-bold mb-8 text-center text-purple-700">
           Add New Post
         </h1>
-        <form onSubmit={handleSubmit} className="space-y-6" encType="multipart/form-data">
+        <form
+          onSubmit={handleSubmit}
+          className="space-y-6"
+          encType="multipart/form-data"
+        >
           {/* Title */}
           <div>
             <label htmlFor="title" className="block font-medium mb-1 text-gray-700">
@@ -137,7 +165,7 @@ export default function AddPost() {
             />
           </div>
 
-          {/* Image File Upload */}
+          {/* Image Upload */}
           <div>
             <label htmlFor="image" className="block font-medium mb-1 text-gray-700">
               Image (Upload an Image)
@@ -146,9 +174,18 @@ export default function AddPost() {
               id="image"
               name="image"
               type="file"
-              onChange={handleImageChange}  // Handle file input change
+              accept="image/*"
+              onChange={handleImageChange}
               className="w-full px-4 py-2 border border-purple-300 rounded-md focus:outline-none focus:ring-2 focus:ring-purple-500 transition"
             />
+            {/* Preview selected image */}
+            {formData.image && (
+              <img
+                src={URL.createObjectURL(formData.image)}
+                alt="Preview"
+                className="mt-2 h-32 w-auto rounded"
+              />
+            )}
           </div>
 
           {/* Tags */}
@@ -169,7 +206,10 @@ export default function AddPost() {
 
           {/* Publish Date */}
           <div>
-            <label htmlFor="publishDate" className="block font-medium mb-1 text-gray-700">
+            <label
+              htmlFor="publishDate"
+              className="block font-medium mb-1 text-gray-700"
+            >
               Publish Date
             </label>
             <input
