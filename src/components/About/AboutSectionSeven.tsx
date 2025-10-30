@@ -123,8 +123,28 @@ const AboutSectionSeven = () => {
 
 አል ሃመዲያ የተባሉትም የእስልምና ክፍል ዛሬ ድረስ ኢሳ
  እንደተሰቀለ የሚያሚያምኑ የእስልምና ክፍሎች አሉ
+ https://www.youtube.com/watch?v=zpgd3tDDP-Q&t=153s  on 33 munite <br></br>
 https://www.tiktok.com/@christchristchrist123/video/7464665451038035205
   <div>
+      <h1></h1>
+      <Image 
+        src="/images/about/y26.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+
+    <br></br>    <br></br>
+    https://www.youtube.com/watch?v=zpgd3tDDP-Q&t=153s     on 31 munite
+
+
+     al-imran; let me warn you , dont come with this non sense, because it is not 
+     only non sense 
+     it is absolutly sinfull to say that allah calls some one else to take 
+     the apearance of nabiy issa.that ennocent man that never claimed to be the messaya,
+     he was crusified
+     <div>
       <h1></h1>
       <Image 
         src="/images/about/y26.PNG"
@@ -187,6 +207,80 @@ https://www.tiktok.com/@christchristchrist123/video/7464665451038035205
       />
     </div>
 
+    
+                              <div>
+      <h1>
+</h1>
+      <Image 
+        src="/images/about/cc1.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+
+          <div>
+      <h1>
+</h1>
+      <Image 
+        src="/images/about/cc2.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+
+ <div>
+      <h1>
+</h1>
+      <Image 
+        src="/images/about/cc3.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+
+     <div>
+      <h1>
+</h1>
+      <Image 
+        src="/images/about/cc7.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+     <div>
+      <h1>
+</h1>
+      <Image 
+        src="/images/about/cc8.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+     <div>
+      <h1>
+</h1>
+      <Image 
+        src="/images/about/cc9.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+     <div>
+      <h1>
+</h1>
+      <Image 
+        src="/images/about/cc10.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
 
     <br></br><br></br> 
 
@@ -265,6 +359,55 @@ https://www.tiktok.com/@christchristchrist123/video/7464665451038035205
       />
     </div>
 
+    <div>
+      <h1></h1>
+      <Image 
+         src="/images/about/cc10.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+     <div>
+      <h1></h1>
+      <Image 
+         src="/images/about/cc11.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+
+ <div>
+      <h1></h1>
+      <Image 
+         src="/images/about/cc12.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+
+ <div>
+      <h1></h1>
+      <Image 
+         src="/images/about/cc13.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+     <div>
+      <h1></h1>
+      <Image 
+         src="/images/about/cc14.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+
+    </div>
       <Image 
         src="/images/about/Capture32.PNG"
         alt="My Photo" 
@@ -608,6 +751,39 @@ his  book  online  https://quran-tafsir.net/alrazy/sura4-aya157.html?#p9
 
                   <br></br>  6. ኢብኑ አትያ፤ በተፍሲር ኢብኑ አትያ፤ 
                    ቅጽ 1 ፤ ሱራ 3፡55 ላይ፡- ኢሳ 33 ሰመቱ ሲሆን ሞተ›› ይለናል፡
+
+
+  <h1></h1>
+      <Image 
+        src="/images/about/cc15.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+ኢብን ኣቲያ ኢማም ማሊክን፡ የማሊክ ትምህርትቤትን መስራችን ጠቅሶ ኢሳ በ ፫፫ ኣመቱ እንደተሰቀለ ይነግረናል
+ <h1></h1>
+      <Image 
+        src="/images/about/cc16.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+
+ <h1></h1>
+      <Image 
+        src="/images/about/cc18.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+ <h1></h1>
+      <Image 
+        src="/images/about/cc17.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 
         <h1></h1>
       <Image 
@@ -1587,6 +1763,17 @@ This is an ascension after death, not a substitute event.
 
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                
+
+
+                <div>
+      <h1></h1>
+      <Image 
+        src="/images/about/c2.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
                1. 1.	ከፍሎሶፈር ሴልሽየስ ልጀምር ፤ የእርሱ ጉዳይ ይገርመኛል፤ ኤትይስት ነዉ፤ አብዝቶ ክርስትያኖችን ተቺ ነዉ፤በመጽሃፉ ምን ይለናል፤እንዴት ክርስትያኖች በእንጨት ላይ  የተሰቀለዉን ክርስቶስ ይክዱታል፤ ይላል፤ 
 ሶ በእንጨት ላይ መሰቀሉ ፤ ኦቪየስ ግልጽ ነዉ ፤ አለም እያየዉ ነዉ ፤ እጁን የዘረጋዉ፤ በዘረጋ እጆቹ እናንተንም ሊያቅፋቹ ይፈለጋል ሙስሊሞች
 
@@ -1656,6 +1843,16 @@ This is an ascension after death, not a substitute event.
 
                    <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
              1  በክርስቶስ ፋንታ ተተካ የሚባለው ማነው?
+              <div>
+      <h1></h1>
+      <Image 
+        src="/images/about/cc19.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+
   A.ሰርጀስ   <br></br>
 
   B.ይሁዳ    <br></br>
@@ -1695,7 +1892,36 @@ A man among the Jews
 Crucified mistakenly
  አልበግዳዊ ፤ ከአይሁዶች መካከል በስህተት ሰቀሉት
 
+ <br></br> <br></br>
+2. አይሁዶች መሲዉን ገደልነዉ አሉ፤ እስቲ አንድ አይሁድ መሲሁን ገደልኩ የሚል ስጠኝ ፤ 1 አምጣ አታመጣም ምክንያቱም፤ እነሱ መሱሁን ይጠብቃሉ እንጂ ገደልን አይሉም
+
+
  <br></br>
+<br></br>
+3.የተወሰኑትን ነቢያት በመገዝ ኣረዱዋቸው፤ የተወኑት ከፊታቸውና ከራሳቸው ቆዳቸው ተፈፈፈ  የተወኑት፤ የተወሰኑት እስኪሞቱ ድረስ በእንጨት ተሰቀሉ ይላል፤ ማነው በነቢያት ታሪክ እስኪሞት ደረስ በእንጨት የተሰቀለው ??
+<div>
+      <h1></h1>
+      <Image 
+        src="/images/about/cc4.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+     <div>
+      <h1></h1>
+      <Image 
+        src="/images/about/cc5.PNG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+    </div>
+
+<br></br><br></br>
+
+    4.   ኢሳ ፤ ኢሳን የሚመስል ካሰቀለ ፤ የሃዋርያቱ ጥፋት ምንድነው፤ ለምሳለ ዮሃንስ በኣይህኑ ኣይቱዋል፤እሱ ሲያያ ለሱ ማነው ኢየሱስን ነው  ያየውን ሶ  በኣለም ላይ ሰበከው ጥፋቱ ምንድነው
+<br></br>
  <br></br>
  <h3> የሽይክ ኢምራን የትሩጉዋሚ ስልት </h3><br></br>
   ስቅለት ማለት አንድን ሰው በመስቀል ላይ ማዋል ነው
